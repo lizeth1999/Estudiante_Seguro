@@ -14,5 +14,15 @@ namespace APIStudentSecurity.Controllers
 
             return View();
         }
+
+        public ViewResult About()
+        {
+            throw new NotImplementedException();
+        }
+
+        public ViewResult Contact()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

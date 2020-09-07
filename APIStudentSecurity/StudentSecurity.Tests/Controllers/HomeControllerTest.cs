@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
+using APIStudentSecurity.Controllers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using admStudentSecurity;
-using admStudentSecurity.Controllers;
 
 namespace StudentSecurity.Tests.Controllers
 {

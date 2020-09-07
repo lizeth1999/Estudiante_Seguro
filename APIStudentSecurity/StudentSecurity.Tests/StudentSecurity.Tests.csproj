@@ -106,10 +106,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\admStudentSecurity\admStudentSecurity.csproj">
-      <Project>{5EA0313B-88D6-4169-B33E-9A862DE2EB0E}</Project>
-      <Name>admStudentSecurity</Name>
-    </ProjectReference>
     <ProjectReference Include="..\APIStudentSecurity\APIStudentSecurity.csproj">
       <Project>{7cec5890-ac49-4b11-a41d-0709da2e000d}</Project>
       <Name>APIStudentSecurity</Name>
